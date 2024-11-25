@@ -8,3 +8,4 @@ streamlit==1.35.0
 pandas==2.0.2
 python-dotenv==1.0.0
 fpdf2
+reportlab
