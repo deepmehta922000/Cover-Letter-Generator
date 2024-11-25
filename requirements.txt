@@ -9,3 +9,4 @@ pandas==2.0.2
 python-dotenv==1.0.0
 fpdf2
 reportlab
+sqlite3 >= 3.35.0
